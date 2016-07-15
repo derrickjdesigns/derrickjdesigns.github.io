@@ -79,7 +79,7 @@ nav li {
 }
 
 nav a:link, nav a:visited {
-  padding: 10px 20px;
+  padding: .2em .8em; /* 7px 20px */
   color: white;
   text-decoration: none;
 }
